@@ -40,7 +40,7 @@ The current project has 3 main files:
 
 ## Running the project
 
-Download/clone the project and type the folloding in the command line:
+Download/clone the project and type the following in the command line:
 
 ```bash
 python3 app.py
